@@ -1,0 +1,16 @@
+{
+  "name": "mongoskin",
+  "description": "moving to tdd",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "express": "3.x",
+    "mongoose": "3.5.x",
+    "mongoskin": ">=0.0.0"
+  },
+  "devDependencies": {
+    "superagent": ">=0.0.0",
+    "mocha": "1.8.x",
+    "chai": ">=0.0.0"
+  }
+}
